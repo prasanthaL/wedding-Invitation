@@ -719,10 +719,10 @@ export default function InvitationPage() {
                 </label>
                 <div className="flex gap-2">
                   <select
-                    className="form-input w-28"
+                    className="form-input shrink-0"
                     value={rsvpData.countryCode}
                     onChange={e => setRsvpData({ ...rsvpData, countryCode: e.target.value })}
-                    style={{ fontFamily: 'var(--font-cormorant)' }}
+                    style={{ fontFamily: 'var(--font-cormorant)', width: '105px', paddingLeft: '0.75rem', paddingRight: '0.5rem' }}
                   >
                     <option value="+94">LK +94</option>
                     <option value="+1">US +1</option>
@@ -731,7 +731,7 @@ export default function InvitationPage() {
                   </select>
                   <input
                     type="tel"
-                    className="form-input flex-1"
+                    className="form-input flex-1 min-w-0"
                     placeholder="77 XXX XXXX"
                     value={rsvpData.phone}
                     onChange={e => setRsvpData({ ...rsvpData, phone: e.target.value })}

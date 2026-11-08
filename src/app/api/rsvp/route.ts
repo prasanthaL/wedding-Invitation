@@ -3,7 +3,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 
 // Replace this with your deployed Google Apps Script Web App URL (or set GOOGLE_SCRIPT_URL in .env.local)
-const DEFAULT_GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || process.env.NEXT_PUBLIC_GOOGLE_SCRIPT_URL || '';
+const DEFAULT_GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || process.env.NEXT_PUBLIC_GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbzzA6ICSjzkrmd_H3GCl3RV14DYzao1Jiz7I1jg3LhPkzJ8QPkJzhXYl2uhTy48nYXy8Q/exec';
 const SPREADSHEET_ID = '1Bd40QMmEGLkJxzTfDF6daoekLbShVeVdK3UqlNKDOOs';
 
 export async function POST(request: Request) {
