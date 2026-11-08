@@ -51,7 +51,7 @@ const translations = {
     guestCount: 'පැමිණෙන ගණන',
     submit: 'පිළිතුර යවන්න',
     saveTheDate: 'SAVE THE DATE',
-    dateDisplay: '29 . 01 . 27',
+    dateDisplay: '29 . 01 . 29',
     closingMsg: 'ආදරයෙන්, දෙදෙනාගේ ආරාධනාවයි',
     brideContact: 'තිලිණි • +94 71 846 5208',
     groomContact: 'දිල්ෂාන් • +94 76 738 4003',
@@ -103,7 +103,7 @@ const translations = {
     guestCount: 'Number of Guests',
     submit: 'Send Response',
     saveTheDate: 'SAVE THE DATE',
-    dateDisplay: '29 . 01 . 27',
+    dateDisplay: '29 . 01 . 29',
     closingMsg: 'With love, from the couple',
     brideContact: 'Thilini • +94 71 846 5208',
     groomContact: 'Dilshan • +94 76 738 4003',
@@ -224,7 +224,7 @@ export default function InvitationPage() {
       audio.pause();
       setMusicPlaying(false);
     } else {
-      audio.play().then(() => setMusicPlaying(true)).catch(() => {});
+      audio.play().then(() => setMusicPlaying(true)).catch(() => { });
     }
   };
 
@@ -232,7 +232,7 @@ export default function InvitationPage() {
     setOpened(true);
     const audio = audioRef.current;
     if (audio) {
-      audio.play().then(() => setMusicPlaying(true)).catch(() => {});
+      audio.play().then(() => setMusicPlaying(true)).catch(() => { });
     }
   };
 
