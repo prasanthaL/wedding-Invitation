@@ -27,11 +27,11 @@ const cormorant = Cormorant_Garamond({
 
 export const metadata: Metadata = {
   title: "තිලිණි සහ දිල්ෂාන් - විවාහ ආරාධනාව | Thilini & Dilshan - Wedding Invitation",
-  description: "ප්‍රේමෙන් යෙදෙන සද සිනාදෙන දිනයේ ඔබව ආරාධනා කිරීමට සන්තෝෂයෙන් ඇරියුමු! 2026 ඔක්තෝබර් 21 - Hotel Golden River - Holiday Resort, වෙන්නප්පුව",
+  description: "ප්‍රේමෙන් යෙදෙන සද සිනාදෙන දිනයේ ඔබව ආරාධනා කිරීමට සන්තෝෂයෙන් ඇරියුමු! 2027 ජනවාරි 29 - Hotel Golden River - Holiday Resort, වෙන්නප්පුව",
   keywords: ["wedding invitation", "Sinhala wedding", "Thilini", "Dilshan", "Hotel Golden River", "Wennappuwa"],
   openGraph: {
     title: "තිලිණි සහ දිල්ෂාන් - විවාහ ආරාධනාව",
-    description: "2026 ඔක්තෝබර් 21 - Hotel Golden River - Holiday Resort, වෙන්නප්පුව",
+    description: "2027 ජනවාරි 29 - Hotel Golden River - Holiday Resort, වෙන්නප්පුව",
     type: "website",
   },
 };

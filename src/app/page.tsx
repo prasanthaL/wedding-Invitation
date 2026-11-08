@@ -12,17 +12,17 @@ const translations = {
     groom: 'දිල්ෂාන්',
     brideParents: 'බටුගහගේ දෝන ඉන්දික පෙරේරා මහතාගේ සහ\nකමනි චම්පිකා වීරක්කොඩි මහත්මියගේ\nආදරණීය දියණිය',
     groomParents: 'එදිරිප්පුලිගේ සිසිර රත්ත මහතාගේ සහ\nතමරා දමයන්ති පරගහවත්ත මහත්මියගේ\nආදරණීය පුතු',
-    occasion: 'චාරිත්‍රානුකූලව අතිනත ගැනීමේ ශුභ නිමිත්තෙන්',
+    occasion: 'චාරිත්‍රානුකූලව අතිනත ගැනීමේ ශුභ මොහොත නිමිත්තෙන්',
     openInvitation: 'ආරාධනාව විවෘත කරන්න',
     invite: 'ආරාධනා',
-    year: '2026',
-    month: 'ඔක්තෝබර්',
-    day: '21',
-    dayName: 'බදාදා',
-    time: 'පෙ.ව. 11.00 සිට ප.ව. 4.00 දක්වා',
+    year: '2027',
+    month: 'ජනවාරි',
+    day: '29',
+    dayName: 'සිකුරාදා',
+    time: 'පෙ.ව. 8.30 සිට ප.ව. 4.00 දක්වා',
     venue: 'Hotel Golden River - Holiday Resort',
-    venueDesc: 'වෙන්නප්පුව හෝටල් පරිශ්‍රයේ දී පැවැත්වෙන මංගල උත්සවයට\nඅපි ඔබව ගෞරවයෙන් ආරාධනා කරන්නෙමු.',
-    poruwDesc: '(පෝරුවේ චාරිතු පෙ.ව. 11.00ට)',
+    venueDesc: 'වෙන්නප්පුව හෝටල් පරිශ්‍රයේ දී පැවැත්වෙන මංගල උත්සවයට\nඅපි ඔබට ගෞරවයෙන් ආරාධනා කරන්නෙමු.',
+    poruwDesc: '(පෝරුවේ චාරිත්‍ර පෙ.ව. 08.59ට)',
     countdownTitle: 'සුභ මොහොත එළඹෙන තුරු',
     days: 'දින',
     hours: 'පැය',
@@ -30,9 +30,9 @@ const translations = {
     seconds: 'තත්පර',
     eventDetails: 'උත්සව විස්තර',
     mangala: 'මංගල උත්සවය',
-    mangalaTime: 'පෙ.ව. 11.00 සිට ප.ව. 4.00 දක්වා',
-    poruwa: 'පෝරුවේ චාරිතු',
-    poruwaTime: 'පෙ.ව. 11.00',
+    mangalaTime: 'පෙ.ව. 8.30 සිට ප.ව. 4.00 දක්වා',
+    poruwa: 'පෝරුවේ චාරිත්‍ර',
+    poruwaTime: 'පෙ.ව. 08.59',
     saveDate: 'දිනය සුරකින්න',
     saveDateDesc: 'ඔබගේ දින දර්ශනයට එක් කරගන්න',
     location: 'උත්සව ස්ථානය',
@@ -41,7 +41,7 @@ const translations = {
     venueAddress: 'වෙන්නප්පුව - කිරිමැටියාන පාර, වෙන්නප්පුව',
     directions: 'සිතියමෙන් බලන්න',
     rsvp: 'පැමිණීම දන්වන්න',
-    rsvpDesc: 'ඔබගේ පැමිණීම අපට මහත් සතුටකි. කරුණාකර කලින්\nදන්වන්න.',
+    rsvpDesc: 'ඔබගේ පැමිණීම අපට මහත් සතුටකි. කරුණාකර කලින් දන්වන්න.',
     fullName: 'සම්පූර්ණ නම',
     namePlaceholder: 'ඔබගේ නම',
     phone: 'ජංගම දූරකතන අංකය',
@@ -51,11 +51,11 @@ const translations = {
     guestCount: 'පැමිණෙන ගණන',
     submit: 'පිළිතුර යවන්න',
     saveTheDate: 'SAVE THE DATE',
-    dateDisplay: '21 . 10 . 26',
-    closingMsg: 'ආදරයෙන්, දෙදෙනාගේ ආරාධනායි',
-    brideContact: 'තිලිණි • +94 71 895 0006',
-    groomContact: 'දිල්ෂාන් • +94 71 813 4962',
-    createdBy: 'Created with ❤ by INVITATION.LK',
+    dateDisplay: '29 . 01 . 27',
+    closingMsg: 'ආදරයෙන්, දෙදෙනාගේ ආරාධනාවයි',
+    brideContact: 'තිලිණි • +94 71 846 5208',
+    groomContact: 'දිල්ෂාන් • +94 76 738 4003',
+    createdBy: 'Created with ❤ by Zentravo.LK',
   },
   en: {
     welcome: 'You are Invited!',
@@ -67,14 +67,14 @@ const translations = {
     occasion: 'On the auspicious occasion of their Holy Matrimony',
     openInvitation: 'Open Invitation',
     invite: 'Invite',
-    year: '2026',
-    month: 'October',
-    day: '21',
-    dayName: 'Wednesday',
-    time: '11:00 AM to 4:00 PM',
+    year: '2027',
+    month: 'january',
+    day: '29',
+    dayName: 'Friday',
+    time: '8:30 AM to 4:00 PM',
     venue: 'Hotel Golden River - Holiday Resort',
     venueDesc: 'We warmly request your gracious presence at the wedding reception\nat the hotel premises in Wennappuwa.',
-    poruwDesc: '(Poruwa ceremony at 11:00 AM)',
+    poruwDesc: '(Poruwa ceremony at 08:59 AM)',
     countdownTitle: 'Counting Down to the Auspicious Moment',
     days: 'Days',
     hours: 'Hours',
@@ -82,9 +82,9 @@ const translations = {
     seconds: 'Seconds',
     eventDetails: 'Event Details',
     mangala: 'Wedding Reception',
-    mangalaTime: '11:00 AM to 4:00 PM',
+    mangalaTime: '08:30 AM to 4:00 PM',
     poruwa: 'Poruwa Ceremony',
-    poruwaTime: '11:00 AM',
+    poruwaTime: '08:59 AM',
     saveDate: 'Save the Date',
     saveDateDesc: 'Add to your calendar',
     location: 'Event Location',
@@ -103,11 +103,11 @@ const translations = {
     guestCount: 'Number of Guests',
     submit: 'Send Response',
     saveTheDate: 'SAVE THE DATE',
-    dateDisplay: '21 . 10 . 26',
+    dateDisplay: '29 . 01 . 27',
     closingMsg: 'With love, from the couple',
-    brideContact: 'Thilini • +94 71 895 0006',
-    groomContact: 'Dilshan • +94 71 813 4962',
-    createdBy: 'Created with ❤ by INVITATION.LK',
+    brideContact: 'Thilini • +94 71 846 5208',
+    groomContact: 'Dilshan • +94 76 738 4003',
+    createdBy: 'Created with ❤ by Zentravo.LK',
   }
 };
 
@@ -115,16 +115,16 @@ const translations = {
 function LotusDivider({ className = '' }: { className?: string }) {
   return (
     <svg viewBox="0 0 200 80" className={`w-40 mx-auto ${className}`} fill="none">
-      <path d="M100 10 C95 5, 85 5, 82 12 C79 5, 70 3, 68 10 C65 3, 60 5, 60 12 C58 8, 55 8, 55 15 C50 10, 48 18, 52 22 C50 28, 55 32, 60 30 C65 38, 75 40, 80 38 C85 45, 95 45, 100 42 C105 45, 115 45, 120 38 C125 40, 135 38, 140 30 C145 32, 150 28, 148 22 C152 18, 150 10, 145 15 C145 8, 142 8, 140 12 C140 5, 135 3, 132 10 C130 3, 121 5, 118 12 C115 5, 105 5, 100 10Z" fill="url(#lotusGrad)" stroke="#B8860B" strokeWidth="0.5"/>
-      <path d="M100 42 C95 50, 88 55, 82 60 M100 42 C105 50, 112 55, 118 60" stroke="#B8860B" strokeWidth="1.5" strokeLinecap="round"/>
-      <path d="M60 30 C40 35, 20 38, 5 45 M140 30 C160 35, 180 38, 195 45" stroke="#B8860B" strokeWidth="1" strokeLinecap="round"/>
-      <path d="M50 48 C45 48, 42 52, 44 56 C46 60, 52 60, 55 57 M150 48 C155 48, 158 52, 156 56 C154 60, 148 60, 145 57" stroke="#B8860B" strokeWidth="1" fill="none"/>
-      <circle cx="100" cy="20" r="3" fill="#D4A843"/>
+      <path d="M100 10 C95 5, 85 5, 82 12 C79 5, 70 3, 68 10 C65 3, 60 5, 60 12 C58 8, 55 8, 55 15 C50 10, 48 18, 52 22 C50 28, 55 32, 60 30 C65 38, 75 40, 80 38 C85 45, 95 45, 100 42 C105 45, 115 45, 120 38 C125 40, 135 38, 140 30 C145 32, 150 28, 148 22 C152 18, 150 10, 145 15 C145 8, 142 8, 140 12 C140 5, 135 3, 132 10 C130 3, 121 5, 118 12 C115 5, 105 5, 100 10Z" fill="url(#lotusGrad)" stroke="#B8860B" strokeWidth="0.5" />
+      <path d="M100 42 C95 50, 88 55, 82 60 M100 42 C105 50, 112 55, 118 60" stroke="#B8860B" strokeWidth="1.5" strokeLinecap="round" />
+      <path d="M60 30 C40 35, 20 38, 5 45 M140 30 C160 35, 180 38, 195 45" stroke="#B8860B" strokeWidth="1" strokeLinecap="round" />
+      <path d="M50 48 C45 48, 42 52, 44 56 C46 60, 52 60, 55 57 M150 48 C155 48, 158 52, 156 56 C154 60, 148 60, 145 57" stroke="#B8860B" strokeWidth="1" fill="none" />
+      <circle cx="100" cy="20" r="3" fill="#D4A843" />
       <defs>
         <linearGradient id="lotusGrad" x1="60" y1="5" x2="140" y2="45" gradientUnits="userSpaceOnUse">
-          <stop offset="0%" stopColor="#D4A843"/>
-          <stop offset="50%" stopColor="#B8860B"/>
-          <stop offset="100%" stopColor="#8B6914"/>
+          <stop offset="0%" stopColor="#D4A843" />
+          <stop offset="50%" stopColor="#B8860B" />
+          <stop offset="100%" stopColor="#8B6914" />
         </linearGradient>
       </defs>
     </svg>
@@ -135,10 +135,10 @@ function LotusDivider({ className = '' }: { className?: string }) {
 function CornerDecor({ className = '' }: { className?: string }) {
   return (
     <svg viewBox="0 0 80 80" className={`absolute w-24 h-24 opacity-15 ${className}`} fill="none">
-      <circle cx="5" cy="5" r="4" fill="#B8860B" fillOpacity="0.6"/>
-      <path d="M5 5 L40 5 Q75 5 75 40 L75 75" stroke="#B8860B" strokeWidth="1.5" fill="none" strokeLinecap="round"/>
-      <path d="M5 5 L5 40 Q5 75 40 75 L75 75" stroke="#B8860B" strokeWidth="1" fill="none" strokeLinecap="round" strokeDasharray="4 3"/>
-      <circle cx="75" cy="75" r="4" fill="#B8860B" fillOpacity="0.4"/>
+      <circle cx="5" cy="5" r="4" fill="#B8860B" fillOpacity="0.6" />
+      <path d="M5 5 L40 5 Q75 5 75 40 L75 75" stroke="#B8860B" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+      <path d="M5 5 L5 40 Q5 75 40 75 L75 75" stroke="#B8860B" strokeWidth="1" fill="none" strokeLinecap="round" strokeDasharray="4 3" />
+      <circle cx="75" cy="75" r="4" fill="#B8860B" fillOpacity="0.4" />
     </svg>
   );
 }
@@ -200,19 +200,68 @@ export default function InvitationPage() {
   const [lang, setLang] = useState<'si' | 'en'>('si');
   const [opened, setOpened] = useState(false);
   const [musicPlaying, setMusicPlaying] = useState(false);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
   const [activeNav, setActiveNav] = useState('home');
-  const [rsvpData, setRsvpData] = useState({ name: '', phone: '', attending: '', guests: 1 });
+  const [rsvpData, setRsvpData] = useState({ name: '', countryCode: '+94', phone: '', attending: 'yes', guests: 1 });
+  const [submitting, setSubmitting] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const t = translations[lang];
 
-  const weddingTimestamp = new Date('2026-10-21T11:00:00+05:30').getTime();
+  useEffect(() => {
+    const audio = new Audio('/music.mp3');
+    audio.loop = true;
+    audioRef.current = audio;
+    return () => {
+      audio.pause();
+      audioRef.current = null;
+    };
+  }, []);
+
+  const toggleMusic = () => {
+    const audio = audioRef.current;
+    if (!audio) return;
+    if (musicPlaying) {
+      audio.pause();
+      setMusicPlaying(false);
+    } else {
+      audio.play().then(() => setMusicPlaying(true)).catch(() => {});
+    }
+  };
+
+  const handleOpenInvitation = () => {
+    setOpened(true);
+    const audio = audioRef.current;
+    if (audio) {
+      audio.play().then(() => setMusicPlaying(true)).catch(() => {});
+    }
+  };
+
+  const weddingTimestamp = new Date('2027-01-29T11:00:00+05:30').getTime();
   const countdown = useCountdown(weddingTimestamp);
 
   const isSinhala = lang === 'si';
 
-  const handleRSVPSubmit = (e: React.FormEvent) => {
+  const handleRSVPSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    setSubmitted(true);
+    if (submitting) return;
+    setSubmitting(true);
+    try {
+      await fetch('/api/rsvp', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: rsvpData.name,
+          phone: `${rsvpData.countryCode} ${rsvpData.phone}`.trim(),
+          attending: rsvpData.attending || 'yes',
+          guests: rsvpData.guests,
+        }),
+      });
+      setSubmitted(true);
+    } catch {
+      setSubmitted(true);
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   useEffect(() => {
@@ -240,8 +289,8 @@ export default function InvitationPage() {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #F5EFE6 0%, #EDE4D5 100%)' }}>
         {/* Mandala BG */}
-        <div className="absolute inset-0 flex items-center justify-center">
-          <div className="w-[min(700px,125vw)] h-[min(700px,125vw)] opacity-25 animate-spin-slow" style={{ backgroundImage: "url('/mandala.jpg')", backgroundSize: 'cover', backgroundRepeat: 'no-repeat', borderRadius: '50%' }} />
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+          <div className="w-[min(700px,95vw)] h-[min(700px,95vw)] shrink-0 aspect-square rounded-full opacity-25 animate-spin-slow" style={{ backgroundImage: "url('/mandala.jpg')", backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }} />
         </div>
         {/* Corner decors */}
         <CornerDecor className="top-0 left-0" />
@@ -276,7 +325,7 @@ export default function InvitationPage() {
           </p>
 
           <button
-            onClick={() => setOpened(true)}
+            onClick={handleOpenInvitation}
             className="btn-gold section-enter delay-400"
             style={{ fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-playfair)', fontSize: '1.1rem' }}
           >
@@ -322,13 +371,13 @@ export default function InvitationPage() {
       <button
         className="music-btn fixed right-4 z-50 animate-pulse-gold"
         style={{ bottom: '90px' }}
-        onClick={() => setMusicPlaying(!musicPlaying)}
+        onClick={toggleMusic}
         aria-label="Toggle music"
       >
         {musicPlaying ? (
-          <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+          <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" /></svg>
         ) : (
-          <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M12 3v10.55A4 4 0 1014 17V7h4V3h-6z"/></svg>
+          <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M12 3v10.55A4 4 0 1014 17V7h4V3h-6z" /></svg>
         )}
       </button>
 
@@ -336,10 +385,10 @@ export default function InvitationPage() {
       <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50">
         <div className="bottom-nav flex gap-1">
           {[
-            { id: 'home', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg> },
-            { id: 'countdown', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"/></svg> },
-            { id: 'location', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z"/></svg> },
-            { id: 'rsvp', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg> },
+            { id: 'home', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" /></svg> },
+            { id: 'countdown', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67V7z" /></svg> },
+            { id: 'location', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z" /></svg> },
+            { id: 'rsvp', icon: <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" /></svg> },
           ].map(({ id, icon }) => (
             <button
               key={id}
@@ -356,8 +405,8 @@ export default function InvitationPage() {
       {/* ===== SECTION 1: HERO ===== */}
       <section id="home" className="relative min-h-screen flex flex-col items-center justify-start pt-0 pb-20 px-4 overflow-hidden">
         {/* Mandala bg */}
-        <div className="absolute inset-0 flex items-center justify-center">
-          <Image src="/mandala.jpg" alt="Mandala" width={700} height={700} className="opacity-10 w-[min(700px,100vw)] h-[min(700px,100vw)] object-cover rounded-full" />
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+          <Image src="/mandala.jpg" alt="Mandala" width={700} height={700} className="opacity-10 w-[min(700px,95vw)] h-[min(700px,95vw)] shrink-0 aspect-square object-cover rounded-full" />
         </div>
 
         {/* Corner decorations */}
@@ -366,7 +415,7 @@ export default function InvitationPage() {
 
         {/* Big half mandala pinned to the top, slowly rotating */}
         <div aria-hidden className="absolute top-0 left-1/2 -translate-x-1/2 w-[min(560px,115vw)] h-[min(280px,57.5vw)] overflow-hidden pointer-events-none section-enter">
-          <Image src="/mandala.jpg" alt="" width={700} height={700} priority className="w-full h-auto -mt-[50%] object-cover rounded-full opacity-90 animate-spin-slow" />
+          <Image src="/mandala.jpg" alt="" width={700} height={700} priority className="w-full aspect-square -mt-[50%] object-cover rounded-full opacity-90 animate-spin-slow" />
         </div>
 
         {/* Lotus & small decorations scattered */}
@@ -490,7 +539,7 @@ export default function InvitationPage() {
           </div>
 
           <p className="mt-10 text-sm" style={{ fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-cormorant)', color: '#8B7355' }}>
-            2026 {isSinhala ? 'ඔක්තෝබර්' : 'October'} 21 {isSinhala ? 'බදාදා' : 'Wednesday'}
+            2027 {isSinhala ? 'ජනවාරි' : 'January'} 29 {isSinhala ? 'සිකුරාදා' : 'Friday'}
           </p>
         </RevealSection>
       </section>
@@ -508,7 +557,7 @@ export default function InvitationPage() {
             {/* Mangala Card */}
             <div className="event-card p-6">
               <div className="w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4" style={{ background: 'linear-gradient(135deg, #D4A843, #B8860B)' }}>
-                <svg width="24" height="24" fill="white" viewBox="0 0 24 24"><path d="M12 22C6.49 22 2 17.51 2 12S6.49 2 12 2s10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67 0 1.38-1.12 2.5-2.5 2.5zm0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5 0-.16-.08-.28-.14-.35-.41-.46-.63-1.05-.63-1.65 0-1.38 1.12-2.5 2.5-2.5H16c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7z"/></svg>
+                <svg width="24" height="24" fill="white" viewBox="0 0 24 24"><path d="M12 22C6.49 22 2 17.51 2 12S6.49 2 12 2s10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67 0 1.38-1.12 2.5-2.5 2.5zm0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5 0-.16-.08-.28-.14-.35-.41-.46-.63-1.05-.63-1.65 0-1.38 1.12-2.5 2.5-2.5H16c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7z" /></svg>
               </div>
               <h3 className="text-lg mb-1 text-gold-gradient" style={{ fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-playfair)', lineHeight: 1.6 }}>
                 {t.mangala}
@@ -525,7 +574,7 @@ export default function InvitationPage() {
             {/* Poruwa Card */}
             <div className="event-card p-6">
               <div className="w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4" style={{ background: 'linear-gradient(135deg, #D4A843, #B8860B)' }}>
-                <svg width="24" height="24" fill="white" viewBox="0 0 24 24"><path d="M3 9v11h7V9H3zm0-4v2h7V5H3zm11-2v16h7V3h-7zm-2 6H8v1h4v-1zm0-3H8v1h4V6zm0 6H8v1h4v-1z"/></svg>
+                <svg width="24" height="24" fill="white" viewBox="0 0 24 24"><path d="M3 9v11h7V9H3zm0-4v2h7V5H3zm11-2v16h7V3h-7zm-2 6H8v1h4v-1zm0-3H8v1h4V6zm0 6H8v1h4v-1z" /></svg>
               </div>
               <h3 className="text-lg mb-1 text-gold-gradient" style={{ fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-playfair)', lineHeight: 1.6 }}>
                 {t.poruwa}
@@ -545,20 +594,20 @@ export default function InvitationPage() {
             className="w-full max-w-md mx-auto flex items-center gap-4 px-6 py-4 rounded-2xl text-left transition-all hover:shadow-lg cursor-pointer"
             style={{ background: 'rgba(255,255,255,0.7)', border: '1.5px solid rgba(184,134,11,0.2)', backdropFilter: 'blur(8px)' }}
             onClick={() => {
-              const icsContent = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Invitation//Wedding//EN', 'BEGIN:VEVENT', 'UID:thilini-dilshan-20261021@invitation', 'DTSTAMP:20261014T000000Z', 'DTSTART:20261021T053000Z', 'DTEND:20261021T103000Z', 'SUMMARY:Thilini & Dilshan Wedding', 'LOCATION:Hotel Golden River - Holiday Resort\\, Wennappuwa', 'DESCRIPTION:Wedding of Thilini and Dilshan', 'END:VEVENT', 'END:VCALENDAR'].join('\r\n');
+              const icsContent = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Invitation//Wedding//EN', 'BEGIN:VEVENT', 'UID:thilini-dilshan-20270129@invitation', 'DTSTAMP:20270114T000000Z', 'DTSTART:20270129T053000Z', 'DTEND:20270129T103000Z', 'SUMMARY:Thilini & Dilshan Wedding', 'LOCATION:Hotel Golden River - Holiday Resort\\, Wennappuwa', 'DESCRIPTION:Wedding of Thilini and Dilshan', 'END:VEVENT', 'END:VCALENDAR'].join('\r\n');
               const blob = new Blob([icsContent], { type: 'text/calendar' });
               const url = URL.createObjectURL(blob);
               const a = document.createElement('a'); a.href = url; a.download = 'wedding.ics'; a.click(); setTimeout(() => URL.revokeObjectURL(url), 1000);
             }}
           >
             <div className="w-10 h-10 shrink-0 rounded-full flex items-center justify-center" style={{ background: 'linear-gradient(135deg, #D4A843, #B8860B)' }}>
-              <svg width="20" height="20" fill="white" viewBox="0 0 24 24"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z"/></svg>
+              <svg width="20" height="20" fill="white" viewBox="0 0 24 24"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z" /></svg>
             </div>
             <div className="flex-1">
               <p className="font-semibold text-sm" style={{ fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-cormorant)', color: '#5C3D1E', lineHeight: 1.8 }}>{t.saveDate}</p>
               <p className="text-xs" style={{ fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-cormorant)', color: '#8B7355', lineHeight: 1.8 }}>{t.saveDateDesc}</p>
             </div>
-            <svg width="20" height="20" fill="#B8860B" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
+            <svg width="20" height="20" fill="#B8860B" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" /></svg>
           </button>
         </RevealSection>
       </section>
@@ -612,7 +661,7 @@ export default function InvitationPage() {
                   rel="noopener noreferrer"
                   className="btn-gold w-full flex items-center justify-center gap-2 text-sm py-3"
                 >
-                  <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z"/></svg>
+                  <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z" /></svg>
                   {t.directions}
                 </a>
               </div>
@@ -671,6 +720,8 @@ export default function InvitationPage() {
                 <div className="flex gap-2">
                   <select
                     className="form-input w-28"
+                    value={rsvpData.countryCode}
+                    onChange={e => setRsvpData({ ...rsvpData, countryCode: e.target.value })}
                     style={{ fontFamily: 'var(--font-cormorant)' }}
                   >
                     <option value="+94">LK +94</option>
@@ -730,11 +781,12 @@ export default function InvitationPage() {
 
               <button
                 type="submit"
-                className="btn-gold w-full flex items-center justify-center gap-2"
+                disabled={submitting}
+                className="btn-gold w-full flex items-center justify-center gap-2 disabled:opacity-60"
                 style={{ fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-cormorant)', fontSize: '1rem' }}
               >
-                <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
-                {t.submit}
+                <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z" /></svg>
+                {submitting ? (isSinhala ? 'යවමින් පවතී...' : 'Sending...') : t.submit}
               </button>
             </form>
           )}
@@ -744,8 +796,8 @@ export default function InvitationPage() {
       {/* ===== SECTION 6: FOOTER / SAVE THE DATE ===== */}
       <footer className="relative pt-20 pb-36 px-4 text-center overflow-hidden" style={{ background: 'linear-gradient(135deg, #7B5E37 0%, #5C3D1E 100%)' }}>
         {/* Mandala background */}
-        <div className="absolute inset-0 flex items-center justify-center opacity-10">
-          <Image src="/mandala.jpg" alt="Mandala" width={500} height={500} className="w-[min(500px,100vw)] h-[min(500px,100vw)] object-cover rounded-full animate-spin-slow" />
+        <div className="absolute inset-0 flex items-center justify-center opacity-10 pointer-events-none">
+          <Image src="/mandala.jpg" alt="Mandala" width={500} height={500} className="w-[min(500px,95vw)] h-[min(500px,95vw)] shrink-0 aspect-square object-cover rounded-full animate-spin-slow" />
         </div>
 
         {/* Decorative dots */}
@@ -777,7 +829,7 @@ export default function InvitationPage() {
               className="flex items-center gap-2 px-6 py-3 rounded-full transition-all hover:bg-white/20"
               style={{ border: '1px solid rgba(255,255,255,0.3)', color: 'rgba(255,255,255,0.9)', fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-cormorant)', lineHeight: 1.8 }}
             >
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" /></svg>
               {t.brideContact}
             </a>
             <a
@@ -785,7 +837,7 @@ export default function InvitationPage() {
               className="flex items-center gap-2 px-6 py-3 rounded-full transition-all hover:bg-white/20"
               style={{ border: '1px solid rgba(255,255,255,0.3)', color: 'rgba(255,255,255,0.9)', fontFamily: isSinhala ? 'var(--font-sinhala)' : 'var(--font-cormorant)', lineHeight: 1.8 }}
             >
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" /></svg>
               {t.groomContact}
             </a>
           </div>
